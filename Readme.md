@@ -86,16 +86,6 @@ Power BI is used to create an interactive dashboard that presents the most impor
 
 The dashboard is designed to help stakeholders identify important patterns quickly and make data-driven business decisions.
 
-### 4. Report Writing & Stakeholder Presentation
-
-The final stage focuses on communicating the analytical findings and translating them into practical business recommendations.
-
-**Deliverables:**
-- A structured project report explaining the business problem, methodology, analysis, and findings.
-- A summary of important customer behavior insights.
-- Business recommendations supported by analytical results.
-- A stakeholder presentation containing key metrics, visualizations, and actionable recommendations.
-
 ## 📈 Expected Business Outcomes
 
 This project aims to help businesses:
